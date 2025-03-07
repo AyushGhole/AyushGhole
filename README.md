@@ -40,6 +40,7 @@
 <span><img src="https://camo.githubusercontent.com/e3aef779877ecfad97fc1e213d3c449a685e6766c0c7fdca210802d4a1f59302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f636b65742e696f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d736f636b65742e696f266261646765436f6c6f723d303130313031"></span>
 
 <h1> <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" height="60px" > Github Stats </h1>
+<br><br>
 <div align="center" dir="auto">
    <a href="https://github.com/AyushGhole/">
    <img src="https://camo.githubusercontent.com/6173a4211c1f9f5a05487eeea478567fb7aa53f617add20e9dc1fe48f8ddceca/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7468697369736172736826696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565266c696e655f6865696768743d3230267469746c655f636f6c6f723d3741374144422669636f6e5f636f6c6f723d32323334414526746578745f636f6c6f723d4433443344332662675f636f6c6f723d302c3030303030302c313330463430" width="450" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thisisarsh&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" style="max-width: 100%;"> <br>
@@ -52,7 +53,7 @@
 <br><br>
 
 <h1>Let's Connect <img src="https://raw.githubusercontent.com/thisisarsh/thisisarsh/main/assets/mdImages/handshake.gif" height="60px"> </h1>
-
+<br><br>
 <a href="www.linkedin.com/in/ghole-ayush-0b4391262" rel="nofollow">
          <img src="https://camo.githubusercontent.com/5b76ce6402130921ab0c2b2938c7a386fb9bca65d62859c6e230a7a9cc7a65fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030616365652e7376673f636f6c6f723d343035444536267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
     </a>
