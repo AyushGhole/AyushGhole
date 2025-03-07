@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
  
 <h1><b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  Hi , I'm Ayush Ghole or "Ayush"  :wave: </b></h1>
 <div style="text-align:center:>
@@ -21,6 +26,11 @@
 <span >
   <img src="https://camo.githubusercontent.com/0803e71d7164cc4981c78ebdbc694b84c20800ca471c185caa101813ea58edc2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65436c6f75642d2532333432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465">
 </span>
+    <div class="d-flex flex-wrap gap-2">
+        <span class="badge bg-danger p-3">Render</span>
+        <span class="badge bg-info text-dark p-3">Vercel</span>
+        <span class="badge bg-success p-3">Netify</span>
+    </div>
 
 
 
