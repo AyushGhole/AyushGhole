@@ -8,10 +8,10 @@
 <div style={display:"flex"} >
 <span>
  <div>
-✅Full Satck Developer(MERN)
-✅Currently on the journey of DSA in java
-✅In search of my first internship
-✅Reach me : ayushghole@gmail.com
+<p>✅Full Satck Developer(MERN)</p>
+<p>✅Currently on the journey of DSA in java</p>
+<p>✅In search of my first internship</p>
+<p>✅Reach me : ayushghole@gmail.com</p>
  </div>
  </span>
 
