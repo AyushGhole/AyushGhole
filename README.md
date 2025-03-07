@@ -7,10 +7,12 @@
 <h1> <img src="https://github.com/thisisarsh/thisisarsh/raw/main/assets/mdImages/about_me.gif" height="60px" > About Me </h1>
 <div style={display:"flex"} >
 <span>
+ <div>
 ✅Full Satck Developer(MERN)
 ✅Currently on the journey of DSA in java
 ✅In search of my first internship
 ✅Reach me : ayushghole@gmail.com
+ </div>
  </span>
 
 <span>
