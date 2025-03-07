@@ -5,6 +5,7 @@
 </div>
 
 <h1> <img src="https://github.com/thisisarsh/thisisarsh/raw/main/assets/mdImages/about_me.gif" height="60px" > About Me </h1>
+<div>
 <span>
 
 ✅Full Satck Developer(MERN)<br>
@@ -17,6 +18,8 @@
 <span>
  <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2xOIKvnjbk6BDpCDw5fIVDORZE6h8OFbmjiOneaYws-7mY35V" >
 </span>
+
+</div>
 <br>
 <h1><img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" height="30px">    Skills </h1>
 <br>
