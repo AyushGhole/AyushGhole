@@ -6,10 +6,10 @@
 
 <h1> <img src="https://github.com/thisisarsh/thisisarsh/raw/main/assets/mdImages/about_me.gif" height="60px" > About Me </h1>
 <span>
-✅ <p> Full Satck Developer(MERN)</p>
-✅<p>Currently on the journey of DSA in java</p>
-✅<p>In search of my first internship</p>
-✅<p>Reach me : ayushghole@gmail.com</p>
+✅Full Satck Developer(MERN)
+✅Currently on the journey of DSA in java
+✅In search of my first internship
+✅Reach me : ayushghole@gmail.com
 </span>
 
 <br>
