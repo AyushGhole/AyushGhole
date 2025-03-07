@@ -6,7 +6,7 @@
 
 <h1> <img src="https://github.com/thisisarsh/thisisarsh/raw/main/assets/mdImages/about_me.gif" height="60px" > About Me </h1>
 <span>
- <img  align="right" height="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8YICizzvvvadaRQOseFU5YFx9uk0Zl0wrlmve4eLF66dJ4WS" >
+ <img  align="right" height="160px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8YICizzvvvadaRQOseFU5YFx9uk0Zl0wrlmve4eLF66dJ4WS" >
 </span>
 <span>
 ✅Full Satck Developer(MERN)<br>
