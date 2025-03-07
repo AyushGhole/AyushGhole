@@ -46,6 +46,7 @@
 " height="30px" width="120px" ></span>
 <span><img src="https://img.shields.io/badge/-MATERIAL_UI-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/-RENDER-f23400?style=flat-square" height="30px" width="80px" ></span>
+<span><img src="https://img.shields.io/badge/-Vercel-009df2?style=flat-square" height="30px" width="70px" ></span>
 
 <h1> <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" height="60px" > Github Stats </h1>
 <br><br>
