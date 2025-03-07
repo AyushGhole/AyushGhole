@@ -16,7 +16,7 @@
  </span>
 
 <span>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8YICizzvvvadaRQOseFU5YFx9uk0Zl0wrlmve4eLF66dJ4WS" >
+ <img  align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8YICizzvvvadaRQOseFU5YFx9uk0Zl0wrlmve4eLF66dJ4WS" >
 </span>
 
 </div>
