@@ -1,4 +1,4 @@
-
+ 
 <h1><b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  Hi , I'm Ayush Ghole or "Ayush"  :wave: </b></h1>
 <div style="text-align:center:>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=60&pause=1000&center=true&width=1735&height=250&lines=Full+Stack+Developer%2FAspiring+Software+Engineer;Electronic+%26+Computer+Science+Student;Speciality++MERN+Stack+Development;Active+Learner%2FResearcher" alt="Typing SVG" /></a>
@@ -16,7 +16,10 @@
 </span>
 <span>
 <img src="https://camo.githubusercontent.com/d45819626e311a793971cf6cedf14dcb7ffe1bc5f427c9d5acb929ee4193030d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47697448756225323050616765732d2532333332374643372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465">
-</span>  
+</span>  <br>
+<span >
+  <img src="https://camo.githubusercontent.com/0803e71d7164cc4981c78ebdbc694b84c20800ca471c185caa101813ea58edc2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65436c6f75642d2532333432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465">
+</span>
 
 
 
