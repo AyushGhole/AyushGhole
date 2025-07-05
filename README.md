@@ -64,7 +64,7 @@
 
 <br><br>
 
-<h1>Let's Connect <img src="https://raw.githubusercontent.com/thisisarsh/thisisarsh/main/assets/mdImages/handshake.gif" height="10px"> </h1>
+<h1>Let's Connect </h1>
 <br><br>
 <a href="www.linkedin.com/in/ghole-ayush-0b4391262" rel="nofollow">
          <img src="https://camo.githubusercontent.com/5b76ce6402130921ab0c2b2938c7a386fb9bca65d62859c6e230a7a9cc7a65fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030616365652e7376673f636f6c6f723d343035444536267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
