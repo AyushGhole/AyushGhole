@@ -60,18 +60,9 @@
    </a>
 </div> -->
 <!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushGhole&show_icons=true&theme=tokyonight" alt="Ayush's GitHub stats" />
-</p>
 
-<!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AyushGhole&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGhole&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AyushGhole&show_icons=true&theme=radical" />
 </p>
 
 
