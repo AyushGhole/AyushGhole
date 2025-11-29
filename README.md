@@ -61,12 +61,19 @@
 </div> -->
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/AyushGhole?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/AyushGhole?label=Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/m/AyushGhole?label=Commit%20Activity&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/AyushGhole/AyushGhole?label=Last%20Commit&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repo-size/AyushGhole/AyushGhole?label=Repo%20Size&style=for-the-badge" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushGhole&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushGhole&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushGhole&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushGhole&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushGhole&theme=github_dark" />
+</p>
+
 
 <br><br>
 
