@@ -60,13 +60,9 @@
    </a>
 </div> -->
 <!-- GitHub Stats -->
-
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AyushGhole&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AyushGhole&show_icons=true&theme=dark&hide_border=false" />
 </p>
-
-
-
 
 
 
