@@ -61,10 +61,12 @@
 </div> -->
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AyushGhole&show_icons=true&theme=dark&hide_border=false" />
+  <img src="https://img.shields.io/github/followers/AyushGhole?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/AyushGhole?label=Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/m/AyushGhole?label=Commit%20Activity&style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/AyushGhole/AyushGhole?label=Last%20Commit&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/AyushGhole/AyushGhole?label=Repo%20Size&style=for-the-badge" />
 </p>
-
-
 
 <br><br>
 
