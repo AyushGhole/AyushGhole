@@ -50,6 +50,8 @@
 <span><img src="https://img.shields.io/badge/-RENDER-f23400?style=flat-square" height="30px" width="80px" ></span>
 <span><img src="https://img.shields.io/badge/-Vercel-009df2?style=flat-square" height="30px" width="70px" ></span>
 <span><img src="https://img.shields.io/badge/-JEST-yellow?style=flat-square" height="30px" width="70px" ></span>
+<span><img src="https://img.shields.io/badge/-Python-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
+
 
 <h1> Github Stats </h1>
 <br><br>
