@@ -46,13 +46,47 @@
 <span><img src="https://img.shields.io/badge/-Java-009df2?style=flat-square" height="30px" width="70px" ></span>
 <span><img src="https://img.shields.io/badge/-C-f29c11?style=flat-square" height="30px" width="60px" ></span>
 <span><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="30px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/-SQL-067c91?style=flat-square" height="30px" width="40px" ></span>
+<span><img src="https://img.shields.io/badge/React.js-9d57b3?style=flat-square" height="30px" width="120px" ></span>
 <span><img src="https://img.shields.io/badge/Tailwind_CSS-e164e3?style=flat-square&logo=tailwindcss&logoColor=white" height="30px" width="120px" ></span>
-<span><img src="https://img.shields.io/badge/RESTFULL_API--eeff6e?style=flat-square" height="30px" width="120px" ></span>
+<span><img src="https://img.shields.io/badge/-Bootstrap-79f279?style=flat-square" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/-MATERIAL_UI-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/- Shadcn/UI-f23400?style=flat-square" height="30px" width="80px" ></span>
+<span><img src="https://img.shields.io/badge/-Responsive Design-yellow?style=flat-square" height="30px" width="70px" ></span>
+<span><img src="https://img.shields.io/badge/-Node.js-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/-Express.js-90c953?style=flat-square" height="30px" width="80px" ></span>
+<span><img src="https://img.shields.io/badge/RESTFULL_API--eeff6e?style=flat-square" height="30px" width="120px" ></span>
+<span><img src="https://img.shields.io/badge/-WebSockets-009df2?style=flat-square" height="30px" width="70px" ></span>
+<span><img src="https://img.shields.io/badge/-Socket.IO-yellow?style=flat-square" height="30px" width="70px" ></span>
+<span><img src="https://img.shields.io/badge/-JWT_Authentication-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/-MongoDB-f23400?style=flat-square" height="30px" width="80px" ></span>
+<span><img src="https://img.shields.io/badge/-MongoDB_Atlas-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/-MySQL-009df2?style=flat-square" height="30px" width="70px" ></span>
+<span><img src="https://img.shields.io/badge/-NoSQL_Design-bb1ec9?style=flat-square" height="30px" width="80px" ></span>
+<span><img src="https://img.shields.io/badge/ Schema_Optimization--eeff6e?style=flat-square" height="30px" width="120px" ></span>
+<span><img src="https://img.shields.io/badge/-Indexing-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/-Aggregation-009df2?style=flat-square" height="30px" width="70px" ></span>
+<span><img src="https://img.shields.io/badge/-Git-f23400?style=flat-square" height="30px" width="80px" ></span>
+<span><img src="https://img.shields.io/badge/-Github-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/-Postman-yellow?style=flat-square" height="30px" width="70px" ></span>
+<span><img src="https://img.shields.io/badge/-Firebase-90c953?style=flat-square" height="30px" width="80px" ></span>
+<span><img src="https://img.shields.io/badge/-Python-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/-RENDER-f23400?style=flat-square" height="30px" width="80px" ></span>
 <span><img src="https://img.shields.io/badge/-Vercel-009df2?style=flat-square" height="30px" width="70px" ></span>
 <span><img src="https://img.shields.io/badge/-JEST-yellow?style=flat-square" height="30px" width="70px" ></span>
 <span><img src="https://img.shields.io/badge/-Python-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/-WebRTC-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/-Docker-f23400?style=flat-square" height="30px" width="80px" ></span>
+<span><img src="https://img.shields.io/badge/-CI/CD-yellow?style=flat-square" height="30px" width="70px" ></span>
+<span><img src="https://img.shields.io/badge/-FullStackDevelopment-1572B6?style=flat-square&logo=css3" height="30px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/-Agile-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/-Code_Reviews-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/-Data_Structures_&_Algorithms-yellow?style=flat-square" height="30px" width="70px" ></span>
+<span><img src="https://img.shields.io/badge/-Performance_Optimization-bb1ec9?style=flat-square" height="30px" width="80px" ></span>
+<span><img src="https://img.shields.io/badge/-ProblemSolving-90c953?style=flat-square" height="30px" width="80px" ></span>
+<span><img src="https://img.shields.io/badge/-SystemDesign-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
+
+
 
 
 <h1> Github Stats </h1>
