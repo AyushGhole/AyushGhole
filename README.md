@@ -42,10 +42,12 @@
 <!-- <span><img src="https://camo.githubusercontent.com/e37ddb78355265ccd69b7d3c30dbaa5bc04855958c4ae320090d4f945616ad6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d2532333037343035652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465"></span>
 <span><img src="https://camo.githubusercontent.com/e3aef779877ecfad97fc1e213d3c449a685e6766c0c7fdca210802d4a1f59302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f636b65742e696f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d736f636b65742e696f266261646765436f6c6f723d303130313031"></span> -->
 <span><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="30px" width="100px"></span>
+<span><img src="https://img.shields.io/badge/-Javascript-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/-Java-009df2?style=flat-square" height="30px" width="70px" ></span>
+<span><img src="https://img.shields.io/badge/-C-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/Tailwind_CSS-e164e3?style=flat-square&logo=tailwindcss&logoColor=white" height="30px" width="120px" ></span>
-<span><img src="https://img.shields.io/badge/RESTFULL_API--eeff6e?style=flat-square"
-" height="30px" width="120px" ></span>
+<span><img src="https://img.shields.io/badge/RESTFULL_API--eeff6e?style=flat-square" height="30px" width="120px" ></span>
 <span><img src="https://img.shields.io/badge/-MATERIAL_UI-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/-RENDER-f23400?style=flat-square" height="30px" width="80px" ></span>
 <span><img src="https://img.shields.io/badge/-Vercel-009df2?style=flat-square" height="30px" width="70px" ></span>
