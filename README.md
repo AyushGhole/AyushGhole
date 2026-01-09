@@ -46,7 +46,7 @@
 <span><img src="https://img.shields.io/badge/-Java-009df2?style=flat-square" height="30px" width="70px" ></span>
 <span><img src="https://img.shields.io/badge/-C-f29c11?style=flat-square" height="30px" width="60px" ></span>
 <span><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="30px" width="90px" ></span>
-<span><img src="https://img.shields.io/badge/-SQL-067c91?style=flat-square" height="30px" width="40px" ></span>
+<span><img src="https://img.shields.io/badge/-SQL-ff6e6e?style=flat-square" height="30px" width="40px" ></span>
 <span><img src="https://img.shields.io/badge/React.js-9d57b3?style=flat-square" height="30px" width="120px" ></span>
 <span><img src="https://img.shields.io/badge/Tailwind_CSS-e164e3?style=flat-square&logo=tailwindcss&logoColor=white" height="30px" width="120px" ></span>
 <span><img src="https://img.shields.io/badge/-Bootstrap-79f279?style=flat-square" height="30px" width="90px" ></span>
