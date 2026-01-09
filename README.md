@@ -118,13 +118,12 @@
 <h1>Let's Connect </h1>
 <br><br>
 <a href="www.linkedin.com/in/ghole-ayush-0b4391262" rel="nofollow">
-         <img src="https://camo.githubusercontent.com/5b76ce6402130921ab0c2b2938c7a386fb9bca65d62859c6e230a7a9cc7a65fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030616365652e7376673f636f6c6f723d343035444536267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+        <span><img src="https://img.shields.io/badge/-LINKEDIN-bb1ec9?style=flat-square" height="50px" width="80px" ></span>
     </a>
-
 <a href="https://www.instagram.com//ayush_ghole?igsh=MWk0YXg0cW9vcGNvNA==" rel="nofollow">
-         <img src="https://camo.githubusercontent.com/cea1eec1e32d8683c2609c52bc63071e3d2551d8c6220582578d02b27a4e1136/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333030616365652e7376673f636f6c6f723d393632666266267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="instagram" data-canonical-src="https://img.shields.io/badge/instagram-%2300acee.svg?color=962fbf&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
+<span><img src="https://img.shields.io/badge/-INSTAGRAM-90c953?style=flat-square" height="50px" width="80px" ></span>
    </a>
 
    <a href="mailto:ayushghole@gmail.com">
-         <img src="https://camo.githubusercontent.com/cc1a16be98230907cb037c0b145c707f2be22622b783b10a010cf81feb3f80f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334541343333352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+<span><img src="https://img.shields.io/badge/-GMAIL-ff6e6e?style=flat-square" height="50px" width="90px" ></span>
    </a>
