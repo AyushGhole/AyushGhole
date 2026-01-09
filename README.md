@@ -125,5 +125,5 @@
    </a>
 
    <a href="mailto:ayushghole@gmail.com">
-<span><img src="https://img.shields.io/badge/-GMAIL-ff6e6e?style=flat-square" height="50px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/-GMAIL-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
    </a>
