@@ -49,7 +49,7 @@
 <span><img src="https://img.shields.io/badge/-FullStackDevelopment-1572B6?style=flat-square&logo=css3" height="40px" width="220px" ></span>
 <span><img src="https://img.shields.io/badge/-Agile-0d0205?style=flat-square" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/-Code_Reviews-f58207?style=flat-square" height="40px" width="150px" ></span>
-<span><img src="https://img.shields.io/badge/-Data_Structures_&_Algorithms-yellow?style=flat-square" height="40px" width="170px" ></span>
+<span><img src="https://img.shields.io/badge/-Data_Structures_&_Algorithms-yellow?style=flat-square" height="40px" width="210px" ></span>
 <span><img src="https://img.shields.io/badge/-Performance_Optimization-bb1ec9?style=flat-square" height="40px" width="180px" ></span>
 <span><img src="https://img.shields.io/badge/-ProblemSolving-90c953?style=flat-square" height="40px" width="100px" ></span>
 <span><img src="https://img.shields.io/badge/-SystemDesign-ff6e6e?style=flat-square" height="40px" width="110px" ></span>
