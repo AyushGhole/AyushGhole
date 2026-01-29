@@ -51,8 +51,8 @@
 <span><img src="https://img.shields.io/badge/-Code_Reviews-f58207?style=flat-square" height="40px" width="150px" ></span>
 <span><img src="https://img.shields.io/badge/-Data_Structures_&_Algorithms-17f507?style=flat-square" height="40px" width="270px" ></span>
 <span><img src="https://img.shields.io/badge/-Performance_Optimization-bb1ec9?style=flat-square" height="40px" width="230px" ></span>
-<span><img src="https://img.shields.io/badge/-ProblemSolving-90c953?style=flat-square" height="40px" width="120px" ></span>
-<span><img src="https://img.shields.io/badge/-SystemDesign-0723f5?style=flat-square" height="40px" width="100px" ></span>
+<span><img src="https://img.shields.io/badge/-ProblemSolving-90c953?style=flat-square" height="50px" width="120px" ></span>
+<span><img src="https://img.shields.io/badge/-SystemDesign-0723f5?style=flat-square" height="40px" width="110px" ></span>
 
 
 
