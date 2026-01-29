@@ -47,7 +47,7 @@
 <span><img src="https://img.shields.io/badge/-Docker-f23400?style=flat-square" height="30px" width="80px" ></span>
 <span><img src="https://img.shields.io/badge/-CI/CD-yellow?style=flat-square" height="30px" width="70px" ></span>
 <span><img src="https://img.shields.io/badge/-FullStackDevelopment-1572B6?style=flat-square&logo=css3" height="40px" width="220px" ></span>
-<span><img src="https://img.shields.io/badge/-Agile-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/-Agile-0d0205?style=flat-square" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/-Code_Reviews-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/-Data_Structures_&_Algorithms-yellow?style=flat-square" height="30px" width="70px" ></span>
 <span><img src="https://img.shields.io/badge/-Performance_Optimization-bb1ec9?style=flat-square" height="30px" width="80px" ></span>
