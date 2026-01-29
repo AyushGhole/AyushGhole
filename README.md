@@ -48,7 +48,7 @@
 <span><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/-SQL-ff6e6e?style=flat-square" height="60px" width="50px" ></span>
 <span><img src="https://img.shields.io/badge/React.js-9d57b3?style=flat-square" height="30px" width="120px" ></span>
-<span><img src="https://img.shields.io/badge/Tailwind_CSS-e164e3?style=flat-square&logo=tailwindcss&logoColor=white" height="30px" width="120px" ></span>
+<span><img src="https://img.shields.io/badge/Tailwind_CSS-e164e3?style=flat-square&logo=tailwindcss&logoColor=white" height="40px" width="120px" ></span>
 <span><img src="https://img.shields.io/badge/-Bootstrap-79f279?style=flat-square" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/-MATERIAL_UI-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/- Shadcn/UI-f23400?style=flat-square" height="30px" width="80px" ></span>
