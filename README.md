@@ -31,7 +31,7 @@
 <span><img src="https://img.shields.io/badge/-Socket.IO-yellow?style=flat-square" height="40px" width="95px" ></span>
 <span><img src="https://img.shields.io/badge/-JWT_Authentication-ff6e6e?style=flat-square" height="40px" width="160px" ></span>
 <span><img src="https://img.shields.io/badge/-MongoDB-34c5ed?style=flat-square" height="40px" width="90px" ></span>
-<span><img src="https://img.shields.io/badge/-MongoDB_Atlas-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/-MongoDB_Atlas-611e55?style=flat-square" height="40px" width="120px" ></span>
 <span><img src="https://img.shields.io/badge/-MySQL-009df2?style=flat-square" height="30px" width="70px" ></span>
 <span><img src="https://img.shields.io/badge/-NoSQL_Design-bb1ec9?style=flat-square" height="30px" width="80px" ></span>
 <span><img src="https://img.shields.io/badge/ Schema_Optimization--eeff6e?style=flat-square" height="30px" width="120px" ></span>
