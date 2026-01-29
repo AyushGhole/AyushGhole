@@ -26,7 +26,7 @@
 <span><img src="https://img.shields.io/badge/-Responsive Design-yellow?style=flat-square" height="40px" width="150px" ></span>
 <span><img src="https://img.shields.io/badge/-Node.js-ff6e6e?style=flat-square" height="40px" width="67px" ></span>
 <span><img src="https://img.shields.io/badge/-Express.js-90c953?style=flat-square" height="40px" width="90px" ></span>
-<span><img src="https://img.shields.io/badge/RESTFULL_API--eeff6e?style=flat-square" height="40px" width="120px" ></span>
+<span><img src="https://img.shields.io/badge/RESTFULL_API--eeff6e?style=flat-square" height="50px" width="120px" ></span>
 <span><img src="https://img.shields.io/badge/-WebSockets-009df2?style=flat-square" height="30px" width="70px" ></span>
 <span><img src="https://img.shields.io/badge/-Socket.IO-yellow?style=flat-square" height="30px" width="70px" ></span>
 <span><img src="https://img.shields.io/badge/-JWT_Authentication-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
