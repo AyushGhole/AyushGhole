@@ -33,7 +33,7 @@
 <span><img src="https://img.shields.io/badge/-MySQL-009df2?style=flat-square" height="30px" width="70px" ></span>
 <span><img src="https://img.shields.io/badge/-NoSQL_Design-400652?style=flat-square" height="40px" width="120px" ></span>
 <span><img src="https://img.shields.io/badge/Schema_Optimization--eeff6e?style=flat-square"  height="110px" width="180px"  ></span>
-<span><img src="https://img.shields.io/badge/-Indexing-032610?style=flat-square" height="40px" width="80px" ></span>
+<span><img src="https://img.shields.io/badge/-Indexing-032610?style=flat-square" height="40px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/-Aggregation-009df2?style=flat-square" height="40px" width="100px" ></span>
 <span><img src="https://img.shields.io/badge/-Git-f23400?style=flat-square" height="30px" width="80px" ></span>
 <span><img src="https://img.shields.io/badge/-Github-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
