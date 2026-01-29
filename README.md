@@ -1,5 +1,3 @@
-
- 
 <h1><b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  Hi , I'm Ayush Ghole or "Ayush"  :wave: </b></h1>
 <div style="text-align:center:>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=60&pause=1000&center=true&width=1735&height=250&lines=Full+Stack+Developer%2FAspiring+Software+Engineer;Electronic+%26+Computer+Science+Student;Ex-Intern+%40Systemic+Altruism;Ex-Intern+%40SortWindPvtLtd;Speciality++MERN+Stack+Development;Active+Learner%2FResearcher;Reach+Me+At+ayushghole%40gmail.com" alt="Typing SVG" /></a>
@@ -35,7 +33,7 @@
 <span><img src="https://img.shields.io/badge/-MySQL-009df2?style=flat-square" height="30px" width="70px" ></span>
 <span><img src="https://img.shields.io/badge/-NoSQL_Design-400652?style=flat-square" height="40px" width="120px" ></span>
 <span><img src="https://img.shields.io/badge/Schema_Optimization--eeff6e?style=flat-square"  height="110px" width="180px"  ></span>
-<span><img src="https://img.shields.io/badge/-Indexing-ff6e6e?style=flat-square" height="40px" width="70px" ></span>
+<span><img src="https://img.shields.io/badge/-Indexing-032610?style=flat-square" height="40px" width="80px" ></span>
 <span><img src="https://img.shields.io/badge/-Aggregation-009df2?style=flat-square" height="30px" width="70px" ></span>
 <span><img src="https://img.shields.io/badge/-Git-f23400?style=flat-square" height="30px" width="80px" ></span>
 <span><img src="https://img.shields.io/badge/-Github-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
