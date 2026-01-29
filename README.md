@@ -9,7 +9,7 @@
 
 <br>
 <br>
-<!-- <h1><img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" height="30px">    Skills </h1> -->
+
 <h1>Skills : </h1>
 <br>
 <span><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="30px" width="100px"></span>
@@ -20,7 +20,7 @@
 <span><img src="https://img.shields.io/badge/-SQL-ff6e6e?style=flat-square" height="60px" width="50px" ></span>
 <span><img src="https://img.shields.io/badge/React.js-9d57b3?style=flat-square" height="30px" width="120px" ></span>
 <span><img src="https://img.shields.io/badge/Tailwind_CSS-e164e3?style=flat-square&logo=tailwindcss&logoColor=white" height="60px" width="150px" ></span>
-<span><img src="https://img.shields.io/badge/-Bootstrap-79f279?style=flat-square" height="30px" width="80px" ></span>
+<span><img src="https://img.shields.io/badge/-Bootstrap-79f279?style=flat-square" height="30px" width="85px" ></span>
 <span><img src="https://img.shields.io/badge/-MATERIAL_UI-ff6e6e?style=flat-square" height="40px" width="110px" ></span>
 <span><img src="https://img.shields.io/badge/-Shadcn/UI-f23400?style=flat-square" height="30px" width="80px" ></span>
 <span><img src="https://img.shields.io/badge/-Responsive Design-yellow?style=flat-square" height="30px" width="70px" ></span>
