@@ -22,8 +22,8 @@
 <span><img src="https://img.shields.io/badge/Tailwind_CSS-e164e3?style=flat-square&logo=tailwindcss&logoColor=white" height="60px" width="150px" ></span>
 <span><img src="https://img.shields.io/badge/-Bootstrap-79f279?style=flat-square" height="30px" width="85px" ></span>
 <span><img src="https://img.shields.io/badge/-MATERIAL_UI-ff6e6e?style=flat-square" height="40px" width="110px" ></span>
-<span><img src="https://img.shields.io/badge/-Shadcn/UI-f23400?style=flat-square" height="40px" width="95px" ></span>
-<span><img src="https://img.shields.io/badge/-Responsive Design-yellow?style=flat-square" height="40px" width="130px" ></span>
+<span><img src="https://img.shields.io/badge/-Shadcn/UI-f23400?style=flat-square" height="40px" width="93px" ></span>
+<span><img src="https://img.shields.io/badge/-Responsive Design-yellow?style=flat-square" height="40px" width="150px" ></span>
 <span><img src="https://img.shields.io/badge/-Node.js-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/-Express.js-90c953?style=flat-square" height="30px" width="80px" ></span>
 <span><img src="https://img.shields.io/badge/RESTFULL_API--eeff6e?style=flat-square" height="30px" width="120px" ></span>
