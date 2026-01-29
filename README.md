@@ -37,8 +37,8 @@
 <span><img src="https://img.shields.io/badge/-Aggregation-009df2?style=flat-square" height="40px" width="100px" ></span>
 <span><img src="https://img.shields.io/badge/-Git-f23400?style=flat-square" height="30px" width="80px" ></span>
 <span><img src="https://img.shields.io/badge/-Github-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
-<span><img src="https://img.shields.io/badge/-Postman-yellow?style=flat-square" height="40px" width="90px" ></span>
-<span><img src="https://img.shields.io/badge/-Firebase-90c953?style=flat-square" height="30px" width="80px" ></span>
+<span><img src="https://img.shields.io/badge/-Postman-yellow?style=flat-square" height="40px" width="85px" ></span>
+<span><img src="https://img.shields.io/badge/-Firebase-90c953?style=flat-square" height="40px" width="80px" ></span>
 <span><img src="https://img.shields.io/badge/-Python-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/-RENDER-f23400?style=flat-square" height="30px" width="80px" ></span>
 <span><img src="https://img.shields.io/badge/-Vercel-009df2?style=flat-square" height="30px" width="70px" ></span>
