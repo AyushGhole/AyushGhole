@@ -85,10 +85,9 @@
 <!-- Profile Summary -->
 <img
   width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushGhole&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushGhole&theme=tokyonight"
   alt="Profile Details"
 />
-
 <br><br>
 
 <!-- GitHub Stats + Streak -->
