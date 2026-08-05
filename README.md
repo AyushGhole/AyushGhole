@@ -141,6 +141,26 @@
   alt="Contribution Graph"
 />
 
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGhole&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+  />
+</p>
+
+<br>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AyushGhole/AyushGhole/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+  />
+</p>
+
 </div>
 
 <br>
