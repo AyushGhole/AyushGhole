@@ -19,8 +19,8 @@
 <br>
 <br>
 
-<h2 align="left">🛠️ Tech Stack & Skills</h2>
-<br><br>
+<h2 align="left" marginBottom="0.3rem">🛠️ Tech Stack & Skills</h2>
+<br>
 <div align="left">
 
 <!-- Languages -->
