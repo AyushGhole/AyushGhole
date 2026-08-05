@@ -106,7 +106,7 @@
 <p align="center">
 <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGhole&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGhole&layout=donut&theme=tokyonight&hide_border=true"
 />
 </p>
 
