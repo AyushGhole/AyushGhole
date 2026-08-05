@@ -82,10 +82,6 @@
 
 <div align="left">
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-
 <!-- Profile Summary -->
 <img
   width="100%"
