@@ -85,10 +85,9 @@
 <!-- Profile Summary -->
 <img
   width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushghole&theme=tokyonight"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushGhole&theme=radical"
   alt="Profile Details"
 />
-<br><br>
 
 <!-- GitHub Stats + Streak -->
 <img
@@ -97,20 +96,22 @@
   alt="GitHub Stats"
 />
 
+<br><br>
 <img
   width="49%"
   src="https://streak-stats.demolab.com?user=AyushGhole&theme=github-dark&hide_border=true"
   alt="GitHub Streak"
 />
 
-<br><br>
+
 
 <!-- Language Stats -->
 <img
   width="49%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushGhole&theme=github_dark"
   alt="Repos Per Language"
-/>
+/> 
+<br><br>
 
 <img
   width="49%"
@@ -118,7 +119,6 @@
   alt="Most Commit Language"
 />
 
-<br><br>
 
 <!-- Productivity -->
 <img
@@ -126,14 +126,14 @@
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushGhole&theme=github_dark"
   alt="GitHub Summary"
 />
-
+<br><br>
 <img
   width="49%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushGhole&theme=github_dark&utcOffset=5.5"
   alt="Productive Time"
 />
 
-<br><br>
+
 
 <!-- Contribution Graph -->
 <img
