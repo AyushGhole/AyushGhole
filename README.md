@@ -103,12 +103,12 @@
 
 
 <!-- Language Stats -->
+<p align="center">
 <img
-  width="49%"
-  align="center"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushGhole&theme=github_dark"
-  alt="Repos Per Language"
-/> 
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGhole&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+/>
+</p>
 
 <br><br>
 
