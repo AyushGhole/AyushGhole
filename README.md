@@ -104,6 +104,7 @@
 <!-- Language Stats -->
 <img
   width="49%"
+  align="center"
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushGhole&theme=github_dark"
   alt="Repos Per Language"
 /> 
