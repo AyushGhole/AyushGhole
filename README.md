@@ -78,31 +78,41 @@
 
 
 
-<h1> Github Stats </h1>
-<br><br>
-<!-- <div align="center" dir="auto">
-   <a href="https://github.com/AyushGhole/">
-   <br>
-  <br> <img src="https://camo.githubusercontent.com/5628c58e7a9e6086abfce868bb63c2d215c5237b9d8a0f0bc458cd198a979bc5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d746869736973617273682673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374266c696e655f6865696768743d3230267469746c655f636f6c6f723d3741374144422669636f6e5f636f6c6f723d32323334414526746578745f636f6c6f723d4433443344332662675f636f6c6f723d302c3030303030302c313330463430" width="375" alt="thisisarsh" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisarsh&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" style="max-width: 100%;">
-   </a>
-</div> -->
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushGhole&theme=github_dark" />
-</p>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushGhole&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushGhole&theme=github_dark" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushGhole&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushGhole&theme=github_dark" />
-</p>
-
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushGhole&theme=github_dark" alt="Profile Details"/>
 
 <br><br>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushGhole&theme=github_dark" alt="GitHub Stats"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushGhole&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+
+<br><br>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushGhole&theme=github_dark" alt="Repos Per Language"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushGhole&theme=github_dark" alt="Most Commit Language"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AyushGhole&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGhole&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGhole&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+
+</div>
 
 <h1>Let's Connect </h1>
 <br><br>
