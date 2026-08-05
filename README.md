@@ -93,12 +93,13 @@
 
 <br><br>
 
+<div align="center">
 <img
   width="54%"
   src="https://streak-stats.demolab.com?user=AyushGhole&theme=github-dark&hide_border=true"
   alt="GitHub Streak"
 />
-
+</div>
 
 
 <!-- Language Stats -->
