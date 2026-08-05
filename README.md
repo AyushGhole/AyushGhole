@@ -1,6 +1,9 @@
 <!-- <h1><b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  Hi , I'm Ayush Ghole or "Ayush"  :wave: </b></h1>
  -->
-<br/><br/>
+<br>
+<br>
+<br>
+
 <div align="center" style="margin-top: 1rem;">
 
 <a href="https://git.io/typing-svg">
