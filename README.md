@@ -94,7 +94,7 @@
 <br><br>
 
 <img
-  width="90%"
+  width="60%"
   src="https://streak-stats.demolab.com?user=AyushGhole&theme=github-dark&hide_border=true"
   alt="GitHub Streak"
 />
