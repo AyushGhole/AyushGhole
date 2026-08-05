@@ -78,41 +78,78 @@
 
 
 
+<h2 align="left">📊 GitHub Analytics</h2>
+
+<div align="left">
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushGhole&theme=github_dark" alt="Profile Details"/>
+<!-- Profile Summary -->
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushGhole&theme=github_dark"
+  alt="Profile Details"
+/>
 
 <br><br>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushGhole&theme=github_dark" alt="GitHub Stats"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushGhole&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+<!-- GitHub Stats + Streak -->
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=AyushGhole&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+  alt="GitHub Stats"
+/>
+
+<img
+  width="49%"
+  src="https://streak-stats.demolab.com?user=AyushGhole&theme=github-dark&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 <br><br>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushGhole&theme=github_dark" alt="Repos Per Language"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushGhole&theme=github_dark" alt="Most Commit Language"/>
+<!-- Language Stats -->
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushGhole&theme=github_dark"
+  alt="Repos Per Language"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushGhole&theme=github_dark"
+  alt="Most Commit Language"
+/>
+
+<br><br>
+
+<!-- Productivity -->
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushGhole&theme=github_dark"
+  alt="GitHub Summary"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushGhole&theme=github_dark&utcOffset=5.5"
+  alt="Productive Time"
+/>
+
+<br><br>
+
+<!-- Contribution Graph -->
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGhole&theme=github-dark&hide_border=true&area=true"
+  alt="Contribution Graph"
+/>
 
 </div>
 
 <br>
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AyushGhole&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGhole&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGhole&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-
-</div>
 
 <h1>Let's Connect </h1>
 <br><br>
