@@ -148,7 +148,7 @@
 <h2 align="left">🤝 Let's Connect</h2>
 
 <p align="left">
-
+<br>
 <a href="https://www.linkedin.com/in/ghole-ayush-0b4391262" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
