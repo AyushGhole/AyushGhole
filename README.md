@@ -85,7 +85,7 @@
 <!-- Profile Summary -->
 <img
   width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushGhole&theme=tokyonight"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushghole&theme=tokyonight"
   alt="Profile Details"
 />
 <br><br>
