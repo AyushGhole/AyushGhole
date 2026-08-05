@@ -145,7 +145,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/AyushGhole/AyushGhole/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/caerlower/AyushGhole/output/github-contribution-grid-snake-dark.svg"
     width="100%"
   />
 </p>
