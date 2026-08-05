@@ -145,15 +145,24 @@
 
 <br>
 
-<h1>Let's Connect </h1>
-<br><br>
-<a href="www.linkedin.com/in/ghole-ayush-0b4391262" rel="nofollow">
-        <span><img src="https://img.shields.io/badge/-LINKEDIN-bb1ec9?style=flat-square" height="50px" width="80px" ></span>
-    </a>
-<a href="https://www.instagram.com//ayush_ghole?igsh=MWk0YXg0cW9vcGNvNA==" rel="nofollow">
-<span><img src="https://img.shields.io/badge/-INSTAGRAM-90c953?style=flat-square" height="50px" width="80px" ></span>
-   </a>
+<h2 align="left">🤝 Let's Connect</h2>
 
-   <a href="mailto:ayushghole@gmail.com">
-<span><img src="https://img.shields.io/badge/-GMAIL-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
-   </a>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ghole-ayush-0b4391262" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/ayush_ghole?igsh=MWk0YXg0cW9vcGNvNA==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:ayushghole@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/AyushGhole" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
