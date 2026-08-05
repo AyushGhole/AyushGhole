@@ -93,34 +93,34 @@
 
 <br><br>
 
-<div align="center">
+<!-- <div align="center">
 <img
   width="54%"
   src="https://streak-stats.demolab.com?user=AyushGhole&theme=github-dark&hide_border=true"
   alt="GitHub Streak"
 />
-</div>
+</div> -->
 
 
 <!-- Language Stats -->
-<p align="center">
+<!-- <p align="center">
 <img
     width="49%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGhole&layout=donut&theme=tokyonight&hide_border=true"
 />
-</p>
+</p> -->
 
-<br><br>
+<!-- <br><br>
 
 <img
   width="49%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushGhole&theme=github_dark"
   alt="Most Commit Language"
-/>
+/> -->
 
 
 <!-- Productivity -->
-<img
+<!-- <img
   width="49%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushGhole&theme=github_dark"
   alt="GitHub Summary"
@@ -130,7 +130,7 @@
   width="49%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushGhole&theme=github_dark&utcOffset=5.5"
   alt="Productive Time"
-/>
+/> -->
 
 
 
