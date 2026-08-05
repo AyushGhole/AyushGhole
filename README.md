@@ -1,5 +1,5 @@
-<!-- <h1><b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  Hi , I'm Ayush Ghole or "Ayush"  :wave: </b></h1>
- -->
+ <h1><b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  Hi , I'm Ayush Ghole or "Ayush"  :wave: </b></h1>
+ 
 <br>
 <br>
 <br>
@@ -8,7 +8,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=56&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=1500&lines=Hi+There!+%F0%9F%91%8B;I'm+Ayush+Ghole;Full+Stack+Developer;Crafting+Modern+Web+Applications;MERN+%7C+Python+%7C+Node.js;Software+Engineering+Enthusiast;Learning+AI+%26+Machine+Learning;Welcome+to+My+GitHub!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=56&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=1500&lines=Full+Stack+Developer;Crafting+Modern+Web+Applications;MERN+%7C+Python+%7C+Node.js;Software+Engineering+Enthusiast;Learning+AI+%26+Machine+Learning;Welcome+to+My+GitHub!"
     alt="Typing SVG"
   />
 </a>
