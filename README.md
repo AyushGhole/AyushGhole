@@ -92,10 +92,12 @@
 <!-- GitHub Stats + Streak -->
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=AyushGhole&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=AyushGhole&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
   alt="GitHub Stats"
 />
+
 <br><br>
+
 <img
   width="49%"
   src="https://streak-stats.demolab.com?user=AyushGhole&theme=github-dark&hide_border=true"
