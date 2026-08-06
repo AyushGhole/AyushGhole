@@ -141,12 +141,12 @@
   alt="Contribution Graph"
 />
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="left">🐍 Contribution Snake</h2>
 
 <p align="center">
   <picture>
     <source
-      media="(prefers-color-scheme: dark)"
+      media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/AyushGhole/AyushGhole/output/github-contribution-grid-snake-dark.svg"
     />
     <source
