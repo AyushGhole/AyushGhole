@@ -147,7 +147,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AyushGhole/AyushGhole/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/AyushGhole/AyushGhole/output/github-contribution-grid-snake-light.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
