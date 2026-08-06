@@ -93,20 +93,31 @@
 
 <br><br>
 
-<div align="center">
+<div align="center"> 
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
 
 <img
-  width="50%"
-  src="https://camo.githubusercontent.com/9d889f5509528df27c434bdcf85a4bf46d1dfc847ba45eafa9c0f4a369c558e6/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170693f757365726e616d653d4a554e34314453323730392673686f775f69636f6e733d7472756526686964655f626f726465723d747275652662675f636f6c6f723d304431313137267469746c655f636f6c6f723d46463037334126746578745f636f6c6f723d4646464646462669636f6e5f636f6c6f723d46463037334126626f726465725f636f6c6f723d46463037334126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565"
-  alt="GitHub Stats"
+width="49%"
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=AyushGhole&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"
 />
- 
+
 <img
+width="49%"
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyushGhole&layout=compact&langs_count=8&theme=algolia&hide_border=true"
+/>
+
+</p>
+ 
+ 
+ <img
   width="54%"
   src="https://streak-stats.demolab.com?user=AyushGhole&theme=github-dark&hide_border=true"
   alt="GitHub Streak"
 />
 </div> 
+
 
 
 <!-- Language Stats -->
