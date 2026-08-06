@@ -93,30 +93,24 @@
 
 <br><br>
 
-<div align="center"> 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-
-<img
-width="49%"
-src="https://github-readme-stats-eight-theta.vercel.app/api?username=AyushGhole&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"
-/>
-
-<img
-width="49%"
-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyushGhole&layout=compact&langs_count=8&theme=algolia&hide_border=true"
-/>
-
-</p>
- 
- 
- <img
-  width="54%"
-  src="https://streak-stats.demolab.com?user=AyushGhole&theme=github-dark&hide_border=true"
-  alt="GitHub Streak"
-/>
-</div> 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=AyushGhole&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyushGhole&layout=compact&langs_count=8&hide_border=true&theme=algolia"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
