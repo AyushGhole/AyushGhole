@@ -146,7 +146,7 @@
 <p align="center">
   <picture>
     <source
-      media="(prefers-color-scheme: white)"
+      media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/AyushGhole/AyushGhole/output/github-contribution-grid-snake-dark.svg"
     />
     <source
@@ -154,9 +154,9 @@
       srcset="https://raw.githubusercontent.com/AyushGhole/AyushGhole/output/github-contribution-grid-snake.svg"
     />
     <img
+      width="100%"
       alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/AyushGhole/AyushGhole/output/github-contribution-grid-snake-dark.svg"
-      width="100%"
     />
   </picture>
 </p>
