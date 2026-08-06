@@ -81,20 +81,6 @@
 <h2 align="left">📊 GitHub Analytics</h2>
 
 <div align="left">
-
-<!-- Profile Summary -->
-<!-- <img
-  width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushGhole&theme=radical"
-  alt="Profile Details"
-/> -->
-
-
-
-<br><br>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <table align="center">
   <tr>
     <td align="center">
@@ -112,40 +98,6 @@
   </tr>
 </table>
 
-
-
-<!-- Language Stats -->
-<!-- <p align="center">
-<img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGhole&layout=donut&theme=tokyonight&hide_border=true"
-/>
-</p> -->
-
-<!-- <br><br>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushGhole&theme=github_dark"
-  alt="Most Commit Language"
-/> -->
-
-
-<!-- Productivity -->
-<!-- <img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushGhole&theme=github_dark"
-  alt="GitHub Summary"
-/>
-<br><br>
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushGhole&theme=github_dark&utcOffset=5.5"
-  alt="Productive Time"
-/> -->
-
-
-
 <!-- Contribution Graph -->
 <img
   width="100%"
@@ -162,7 +114,7 @@
       srcset="https://raw.githubusercontent.com/AyushGhole/AyushGhole/output/github-contribution-grid-snake-dark.svg"
     />
     <source
-      media="(prefers-color-scheme: light)"
+      media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/AyushGhole/AyushGhole/output/github-contribution-grid-snake.svg"
     />
     <img
