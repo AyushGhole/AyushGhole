@@ -129,7 +129,7 @@
 </table>
 <h2 align="left">🐍 Contribution Snake</h2>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: light)"
@@ -145,8 +145,10 @@
       src="https://raw.githubusercontent.com/AyushGhole/AyushGhole/output/github-contribution-grid-snake-dark.svg"
     />
   </picture>
+</p> -->
+<p align="center">
+  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
 
 </div>
 
