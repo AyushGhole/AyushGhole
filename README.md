@@ -104,9 +104,8 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JUN41DS2709&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF073A&text_color=FFFFFF&icon_color=FF073A&border_color=FF073A&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=JUN41DS2709&background=0D1117&hide_border=true&ring=FF073A&fire=FF073A&currStreakLabel=FF073A&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=AyushGhole&background=0D1117&hide_border=true&ring=FF073A&fire=FF073A&currStreakLabel=FF073A&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF"/>
 
 </p>
 
