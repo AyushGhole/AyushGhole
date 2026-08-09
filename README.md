@@ -99,7 +99,7 @@
 <br><br><br>
 
 <!-- STREAK & CONTRIBUTIONS  -->
-<h1 align="left"> Streaks & Contributions </h1>
+<h2 align="center">⚡ Streaks & Contributions</h2>
 <br><br>
 <p align="center">
 <img
