@@ -20,7 +20,7 @@
 
 <!-- TECH STACKS & SKILLS SECTIONS -->
 <h2 align="left" marginBottom="0.3rem">🛠️ Tech Stack & Skills</h2>
-<br>
+<br><br>
 <div align="left">
 <!-- Languages -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -98,6 +98,8 @@
 <br><br><br>
 
 <!-- STREAK & CONTRIBUTIONS  -->
+<h1 align="left"> Streaks & Contributions </h1>
+<br><br>
 <p align="center">
 <img
   width="59%"
