@@ -100,11 +100,19 @@
 </table>
 <br><br>
 
-<img
-  width="49%"
-  src="https://YOUR-VERCEL-NAME.vercel.app/api/top-langs/?username=AyushGhole&layout=compact&theme=tokyonight"
-/>
+<p align="center">
+  <img
+    width="49%"
+    src="./profile-summary-card-output/github_dark/stats.svg"
+    alt="GitHub Stats"
+  />
 
+  <img
+    width="49%"
+    src="./profile-summary-card-output/github_dark/productive-time.svg"
+    alt="Productive Time"
+  />
+</p>
 <br><br>
 <!-- Contribution Graph -->
 <table>
@@ -112,10 +120,7 @@
   width="100%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGhole&theme=github-dark&hide_border=true&area=true"
   alt="Contribution Graph"
-/> -->  <img
-    width="49%"
-    src="./profile-summary-card-output/github_dark/stats.svg"
-  />
+/> -->  
 
  
  <br><br>
