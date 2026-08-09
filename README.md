@@ -98,7 +98,12 @@
     </td>
   </tr>
 </table>
+<br><br>
 
+<img
+  width="49%"
+  src="https://YOUR-VERCEL-NAME.vercel.app/api/top-langs/?username=AyushGhole&layout=compact&theme=tokyonight"
+/>
 
 <br><br>
 <!-- Contribution Graph -->
