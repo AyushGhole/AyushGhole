@@ -87,10 +87,6 @@
 <table align="center">
   <tr>
     <td align="center">
-      <!-- <img
-        src="https://github-readme-stats-eight-theta.vercel.app/api?username=AyushGhole&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"
-        alt="GitHub Stats"
-      /> -->
      <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AyushGhole&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF073A&text_color=FFFFFF&icon_color=FF073A&border_color=FF073A&include_all_commits=true&count_private=true"/>
     </td>
     <td align="center">
