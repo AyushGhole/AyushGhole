@@ -112,7 +112,12 @@
   width="100%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGhole&theme=github-dark&hide_border=true&area=true"
   alt="Contribution Graph"
-/> -->
+/> -->  <img
+    width="49%"
+    src="./profile-summary-card-output/github_dark/stats.svg"
+  />
+
+ 
  <br><br>
  <p align="center">
   <img
