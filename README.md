@@ -100,11 +100,17 @@
 
 <!-- Contribution Graph -->
 <table>
-<img
+<!-- <img
   width="100%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGhole&theme=github-dark&hide_border=true&area=true"
   alt="Contribution Graph"
-/>
+/> -->
+ <p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGhole&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+  />
+</p>
 </table>
 <h2 align="left">🐍 Contribution Snake</h2>
 
