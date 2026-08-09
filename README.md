@@ -99,7 +99,10 @@
 
 <!-- STREAK & CONTRIBUTIONS  -->
 <p align="center">
-<img width="69%" src="https://streak-stats.demolab.com?user=AyushGhole&background=0D1117&hide_border=true&ring=FF073A&fire=FF073A&currStreakLabel=FF073A&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF"/>
+<img
+  width="69%"
+  src="https://streak-stats.demolab.com?user=AyushGhole&background=0D1117&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=FFFFFF&dates=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF"
+/>
 </p>
 
 
