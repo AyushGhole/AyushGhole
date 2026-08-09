@@ -100,7 +100,7 @@
 <!-- STREAK & CONTRIBUTIONS  -->
 <p align="center">
 <img
-  width="69%"
+  width="59%"
   src="https://streak-stats.demolab.com?user=AyushGhole&background=0D1117&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=FFFFFF&dates=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF"
 />
 </p>
@@ -109,8 +109,9 @@
 <!-- CONTRIBUTION GRAPH -->
 <table>
  <br><br>
- <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGhole&bg_color=0D1117&color=FFFFFF&line=FF073A&point=FF073A&area=true&area_color=8B0000&title_color=FF073A&hide_border=true"/>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGhole&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=00BFFF&area=true&area_color=24104F&title_color=00BFFF&hide_border=true"/>
+</p>
 </p>
 </p>
 </table>
