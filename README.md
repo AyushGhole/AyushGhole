@@ -81,6 +81,7 @@
 <h2 align="left">📊 GitHub Analytics</h2>
 
 <div align="left">
+ <br><br>
 <table align="center">
   <tr>
     <td align="center">
