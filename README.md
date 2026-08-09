@@ -71,18 +71,16 @@
 <img src="https://img.shields.io/badge/Problem_Solving-E11D48?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agile-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Code_Reviews-8B5CF6?style=for-the-badge"/>
-
 </div>
 
+<br><br><br> 
 
 
-
+<!-- GITHUB ANALYTICS -->
 <h2 align="left">📊 GitHub Analytics</h2>
-
 <div align="left">
  <br><br>
-
- 
+<!-- GUTHUB STATS & LANGUAGES STATS  -->
 <table align="center">
   <tr>
     <td align="center">
@@ -96,81 +94,48 @@
     </td>
   </tr>
 </table>
-<br><br>
 
+<br><br><br>
+
+<!-- STREAK & CONTRIBUTIONS  -->
 <p align="center">
-
-
-<img width="49%" src="https://streak-stats.demolab.com?user=AyushGhole&background=0D1117&hide_border=true&ring=FF073A&fire=FF073A&currStreakLabel=FF073A&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF"/>
-
+<img width="69%" src="https://streak-stats.demolab.com?user=AyushGhole&background=0D1117&hide_border=true&ring=FF073A&fire=FF073A&currStreakLabel=FF073A&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF"/>
 </p>
 
 
-
-<!-- Contribution Graph -->
+<!-- CONTRIBUTION GRAPH -->
 <table>
-<!-- <img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGhole&theme=github-dark&hide_border=true&area=true"
-  alt="Contribution Graph"
-/> -->  
-
- 
  <br><br>
  <p align="center">
-  <!-- <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGhole&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-  /> -->
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGhole&bg_color=0D1117&color=FFFFFF&line=FF073A&point=FF073A&area=true&area_color=8B0000&title_color=FF073A&hide_border=true"/>
 </p>
 </p>
 </table>
-<h2 align="left">🐍 Contribution Snake</h2>
 
-<!-- <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AyushGhole/AyushGhole/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AyushGhole/AyushGhole/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      width="100%"
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/AyushGhole/AyushGhole/output/github-contribution-grid-snake-dark.svg"
-    />
-  </picture>
-</p> -->
+
+<!-- SNAKE CONTRIBUTION -->
+<h2 align="left">🐍 Contribution Snake</h2>
 <p align="center">
   <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
 </div>
 
-<br>
+<br><br><br>
 
+<!-- LET'S CONNECT SECTION -->
 <h2 align="left">🤝 Let's Connect</h2>
-
 <p align="left">
 <br>
 <a href="https://www.linkedin.com/in/ghole-ayush-0b4391262" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://www.instagram.com/ayush_ghole?igsh=MWk0YXg0cW9vcGNvNA==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
 <a href="mailto:ayushghole@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://github.com/AyushGhole" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 </p>
