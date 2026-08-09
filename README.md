@@ -108,12 +108,12 @@
 />
 </p>
 
-<br>
+<br><br>
 
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="left">📈 Contribution Graph</h2>
 <!-- CONTRIBUTION GRAPH -->
 <table>
- <br><br>
+ <br>
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGhole&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=00BFFF&area=true&area_color=24104F&title_color=00BFFF&hide_border=true"/>
 </p>
@@ -121,6 +121,7 @@
 </p>
 </table>
 
+<br><br>
 
 <!-- SNAKE CONTRIBUTION -->
 <h2 align="left">🐍 Contribution Snake</h2>
