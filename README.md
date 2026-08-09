@@ -100,20 +100,7 @@
 </table>
 <br><br>
 
-<p align="center">
-  <img
-    width="49%"
-    src="./profile-summary-card-output/github_dark/stats.svg"
-    alt="GitHub Stats"
-  />
-
-  <img
-    width="49%"
-    src="./profile-summary-card-output/github_dark/productive-time.svg"
-    alt="Productive Time"
-  />
-</p>
-<br><br>
+<!-- <br><br> -->
 <!-- Contribution Graph -->
 <table>
 <!-- <img
