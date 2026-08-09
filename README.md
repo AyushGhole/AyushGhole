@@ -99,7 +99,7 @@
 <br><br><br>
 
 <!-- STREAK & CONTRIBUTIONS  -->
-<h2 align="center">⚡ Streaks & Contributions</h2>
+<h2 align="left">⚡ Streaks & Contributions</h2>
 <br><br>
 <p align="center">
 <img
@@ -108,7 +108,9 @@
 />
 </p>
 
+<br>
 
+<h2 align="center">📈 Contribution Graph</h2>
 <!-- CONTRIBUTION GRAPH -->
 <table>
  <br><br>
