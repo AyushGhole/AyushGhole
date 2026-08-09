@@ -14,14 +14,14 @@
 </a>
 </div>
 
-
 <br>
 <br>
+<br> 
 
+<!-- TECH STACKS & SKILLS SECTIONS -->
 <h2 align="left" marginBottom="0.3rem">🛠️ Tech Stack & Skills</h2>
 <br>
 <div align="left">
-
 <!-- Languages -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
