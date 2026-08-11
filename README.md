@@ -96,7 +96,7 @@
   </tr>
 </table>
 
-<br><br><br>
+<br><br>
 
 <!-- STREAK & CONTRIBUTIONS  -->
 <h2 align="left">⚡ Streaks & Contributions</h2>
