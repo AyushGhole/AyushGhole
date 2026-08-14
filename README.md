@@ -15,7 +15,7 @@
 </a>
 </div>
 
-<!-- THIS -->
+<!-- THIS IS A -->
 <br>
 <br>
 <br> 
