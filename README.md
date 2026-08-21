@@ -103,7 +103,7 @@
 <h2 align="left">⚡ Streaks & Contributions</h2>
 <br><br>
 <p align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGhole&" alt="shikha-eng" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGhole&" alt="Ayush" />
 </p>
 
 
