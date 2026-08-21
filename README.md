@@ -104,13 +104,11 @@
 <br><br>
 <p align="center">
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGhole&" alt="Ayush" /> -->
-<p align="center">
   <img
-    src="https://github-readme-streak-stats.demolab.com/?user=AyushGhole&theme=dark&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGhole&theme=dark&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"
     alt="Ayush's GitHub Streak"
     width="70%"
   />
-</p>
 </p>
 
 
