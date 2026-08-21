@@ -118,9 +118,8 @@
 <table>
  <br>
 <p align="center">
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JUN41DS2709&bg_color=0D1117&color=FFFFFF&line=FF073A&point=FF073A&area=true&area_color=8B0000&title_color=FF073A&hide_border=true"/>
-</p>
+ <img width="100%" src="https://githubreadmeactivitygraph.vercel.app/graphusername=AyushGhole&bg_color=0D1117&color=FFFFFF&line=FF073A&point=FF073A&area=true&area_color=8B0000&title_color=FF073A&hide_border=true"/>
+
 </p>
 </table>
 
