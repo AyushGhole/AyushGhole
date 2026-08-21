@@ -103,8 +103,7 @@
 <h2 align="left">⚡ Streaks & Contributions</h2>
 <br><br>
 <p align="center">
-<img
-  width="59%"
+<img width="59%"
   src="https://streak-stats.demolab.com?user=AyushGhole&background=0D1117&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=FFFFFF&dates=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF"
 />
 </p>
