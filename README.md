@@ -103,8 +103,11 @@
 <h2 align="left">⚡ Streaks & Contributions</h2>
 <br><br>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGhole&" alt="Ayush" />
-</p>
+ <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGhole&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=FFFFFF&dates=8B949E&sideNums=FFFFFF"
+    alt="Ayush's GitHub Streak"
+    width="70%"
+  /></p>
 
 
 <!-- breaking -->
