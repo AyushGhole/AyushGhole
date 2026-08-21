@@ -77,7 +77,7 @@
 <br><br><br> 
 
 
-<!-- Analytic -->
+<!-- Analytic Display -->
 <!-- GITHUB ANALYTICS -->
 <h2 align="left">📊 GitHub Analytics</h2>
 <div align="left">
