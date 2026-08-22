@@ -104,7 +104,7 @@
 <br><br>
 <p align="center">
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGhole&bg_color=0D1117&color=FFFFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true" alt="Ayush's Streak" /> -->
-  <img align="center" src="https://streak-stats.demolab.com/?user=AyushGhole&theme=neon" alt="Ayush's Streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=AyushGhole&theme=youtube-dark" alt="Ayush's Streak" />
 </p>
 
 
