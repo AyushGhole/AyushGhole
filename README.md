@@ -5,7 +5,6 @@
 <br>
 
 
-<!-- Done and cleaing --> 
 
 <!-- TYPING INDICATORS FOR PROFILE INFO -->
 <div align="center" style="margin-top: 1rem;">
