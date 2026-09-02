@@ -15,9 +15,7 @@
 
 
 
-
-
-<!-- T--> 
+ 
 <!-- TYPING INDICATORS FOR PROFILE INFO -->
 <div align="center" style="margin-top: 1rem;">
 <a href="https://git.io/typing-svg">
